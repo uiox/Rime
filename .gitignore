@@ -1,5 +1,12 @@
 *~
-/package
-/output
 .DS_Store
-plum-*.tar.gz
+
+/sync
+/*.userdb
+/*.userdb.old
+
+/build
+/trash
+
+/user.yaml
+/installation.yaml
